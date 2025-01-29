@@ -59,4 +59,5 @@ json
 - Modify input_image in the script to change the image being processed.
 
 ## Author
-This script is developed for pose detection and hand-tracking using YOLOv8.
+Varnank Sharma
+
